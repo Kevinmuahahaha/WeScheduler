@@ -1,0 +1,16 @@
+# NAME:    name  <--- blanks at the start/end of the string are ignored
+# aka it simply reads 'name'
+
+# *** Do put a blank between OPTION and VALUE
+# *** e.g
+# *** [N] NAME:Bobby
+# *** [Y] NAME: Bobby
+
+
+[tag here]
+TIME:2019.11.02 10:01:00
+NAME:File Transfer
+MSG:[!] This boy ain't right!
+
+# please leave an extra line at the end of the config file
+# for technical(lazy) reasons
