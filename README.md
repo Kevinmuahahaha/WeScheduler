@@ -14,9 +14,7 @@
  
 	Python 3.6.8
 	
- And the service is located either in **China** or **America**
- 
- due to the lack of timezone compatibility cus I'm too lazy
+ And the service is located either in **China** or **America** due to the lack of timezone compatibility cus I'm too lazy
 
 # TODOs
  0. **Modularize & Clean up** the Codes
