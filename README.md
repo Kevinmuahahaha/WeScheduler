@@ -7,10 +7,15 @@
 
 # Constraints
  This script is tested only on
+ 
 	Ubuntu 18.04.3 LTS 64bit
+	
  With
+ 
 	Python 3.6.8
+	
  And the service is located either in **China** or **America**
+ 
  due to the lack of timezone compatibility cus I'm too lazy
 
 # TODOs
