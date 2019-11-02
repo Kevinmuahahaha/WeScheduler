@@ -14,22 +14,16 @@
  due to the lack of timezone compatibility cus I'm too lazy
 
 # TODOs
- 0.
-  **Modularize & Clean up** the Codes
- 1.
-  Add `quiet` option, supresses stdout/stderr, and 
+ 0. **Modularize & Clean up** the Codes
+ 1. Add `quiet` option, supresses stdout/stderr, and 
   redirect them into a logfile
- 2.
-  Add Options
+ 2. Add Options
    `-L  --msg_list <path>`
    `-Q  --save_qrcode_to <path>`
    `-D  --daemon`
    ... and many more
- 3.
-  Add auto timezone compatibility, so that the script
+ 3. Add auto timezone compatibility, so that the script
   can be deployed anywhere
- 4.
-  Create a Cron-like schedule parser which looks like
+ 4. Create a Cron-like schedule parser which looks like
   `* * * 1 2 3 to_user msg`
- 5.
-  Send Image and File
+ 5. Send Image and File
